@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='madio'
- y=2*x
- print y+str(45)
+ x='mdimc'
+ y=7*x
+ print y+str(72)
