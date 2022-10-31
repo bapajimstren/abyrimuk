@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='okumai'
- y=4*x
- print y+str(8)
+ x='chanum'
+ y=3*x
+ print y+str(7152)
