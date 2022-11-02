@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='adun'
- y=4*x
- print y+str(67)
+ x='umadi'
+ y=3*x
+ print y+str(8165)
