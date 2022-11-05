@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='acusvb'
- y=2*x
- print y+str(9137)
+ x='kadun'
+ y=4*x
+ print y+str(7291)
