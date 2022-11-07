@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='tbuin'
- y=8*x
- print y+str(761)
+ x='nvsun'
+ y=4*x
+ print y+str(8749)
