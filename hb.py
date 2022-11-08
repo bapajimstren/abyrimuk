@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='msiunb'
- y=3*x
- print y+str(757)
+ x='afun'
+ y=5*x
+ print y+str(492)
