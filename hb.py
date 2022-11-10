@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='buank'
- y=8*x
- print y+str(53)
+ x='mifju'
+ y=3*x
+ print y+str(87)
