@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='bvyasn'
- y=2*x
- print( y+str(2.973))
+ x='tagsyn'
+ y=3*x
+ print( y+str(11.8684))
