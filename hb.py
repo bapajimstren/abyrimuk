@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='tagsyn'
+ x='vnaky'
  y=3*x
- print( y+str(11.8684))
+ print( y+str(6.81))
