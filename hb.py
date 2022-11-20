@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='rfbum'
- y=2*x
- print( y+str(9.35))
+ x='ponaus'
+ y=3*x
+ print( y+str(1.4))
