@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- x='mubar'
- y=5*x
- print( y+str(9.5))
+ x='gchar'
+ y=3*x
+ print( y+str(5.6))
