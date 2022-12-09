@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  x='qesuzomo'
-  y=3*x
-  print(y+str(6.7))
+  x='zefocit'
+  y=8*x
+  print(y+str(5.1))
