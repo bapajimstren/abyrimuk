@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  x='lesuv'
-  y=3*x
-  print(y+str(1.9))
+  x='mozadu'
+  y=9*x
+  print(y+str(2.9))
