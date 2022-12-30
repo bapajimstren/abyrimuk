@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  x='xoru'
+  x='tadezed'
   y=6*x
-  print(y+str(6.2))
+  print(y+str(6.3))
