@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  x='xirocez'
+  x='nayaku'
   y=1*x
-  print(y+str(5.1))
+  print(y+str(2.5))
